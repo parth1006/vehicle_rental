@@ -1,0 +1,5 @@
+Specifications:
+
+Engine:97.2cc			Brake:Drum
+Power:8.02PS			Tyre:Tubeless
+Torque:8.05Nm			Fuel Capacity:9.8 L

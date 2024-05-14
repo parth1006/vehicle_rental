@@ -1,0 +1,5 @@
+Specifications:
+
+Engine:199cc			Brakes:Disc
+Power:24.5cc			Tyre:Tubeless
+Torque:18.74Nm			Fuel Capacity:12L

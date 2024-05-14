@@ -1,0 +1,5 @@
+Specifications:
+
+Engine:689cc			Brake:Double disc
+Power:73.4PS			Tyre:Tubeless
+Torque:67Nm				Fuel Capacity:14 L
